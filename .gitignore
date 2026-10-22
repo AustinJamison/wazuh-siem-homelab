@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*password*
+*secret*
+*.pem
+*.key
+*.p12
+*.pfx
+config/wazuh_indexer_ssl_certs/
